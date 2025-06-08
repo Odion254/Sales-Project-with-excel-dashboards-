@@ -20,7 +20,5 @@ Analyzed individual employee sales data using Microsoft Excel dashboards with:
 - Pinpointed improvement opportunities
 - Created transparent performance metrics
 
-# Tools Used
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" alt="Excel" title="Microsoft Excel"/>
-</div>
+# Tools Used  
+- Microsoft Excel (Bar charts, pie charts, donut charts, bar-of-pie charts)  
